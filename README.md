@@ -16,9 +16,13 @@ Sistemas de Adquisición y Procesamiento de Datos, Física Mecánica y análisis
 
 💧 **Proyecto integrador**: diseño basado en una planta de tratamiento de agua.
 
+## Certificaciones
+
+🦀 **Aprende Rust** (26 lecciones, 95 ejercicios y 7 exámenes), emitido el 8 de noviembre de 2026. [Ver certificado en PDF](./aprenderust-certificado-fd2e8a71-08eb-4893-9ce9-03535ff6899b.pdf) · [Verificar en aprenderust.dev](https://aprenderust.dev/certificado/fd2e8a71-08eb-4893-9ce9-03535ff6899b)
+
 ## Tecnologías y herramientas
 
-Python · JavaScript · HTML/CSS · Git y GitHub · IA generativa (Claude, Gemini)
+Rust · Python · JavaScript · HTML/CSS · Git y GitHub · IA generativa (Claude, Gemini)
 
 ## Qué estoy buscando
 
