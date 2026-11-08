@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hola, soy Anderson García 👋
 
-<!--
-**andersonon0/andersonon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Colombia 🇨🇴, apasionado por los datos, la electrónica y crear aplicaciones útiles con ayuda de IA.
 
-Here are some ideas to get you started:
+## Lo que estoy estudiando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sistemas de Adquisición y Procesamiento de Datos, Física Mecánica y análisis de costos.
+
+## Proyectos
+
+🔭 **Física Quest**: app gamificada para estudiar Física Mecánica, con Modo Cuaderno.
+
+🐰 **Nubi**: app de nutrición con IA (Gemini) y una mascota conejito, Copito.
+
+📱 **DatoZen**: cuenta de TikTok con videos de datos curiosos y aprendizaje.
+
+💧 **Proyecto integrador**: diseño basado en una planta de tratamiento de agua.
+
+## Tecnologías y herramientas
+
+Python · JavaScript · HTML/CSS · Git y GitHub · IA generativa (Claude, Gemini)
+
+## Qué estoy buscando
+
+Disponible para prácticas, proyectos y oportunidades laborales donde pueda aprender y aportar.
+
+## Contacto
+
+📧 yostinresteryou@gmail.com
